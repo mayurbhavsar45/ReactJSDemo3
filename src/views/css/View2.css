@@ -1,0 +1,24 @@
+.doneButton {
+    display: none;
+}
+
+#lblMessage {
+    position: absolute;
+    top: 17%;
+    font-size: 54px;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    text-shadow: 3px 2px #585757;
+}
+
+.viewContainer {
+    position: relative;
+}
+
+.open-color {
+    color: #d0f636;
+}
+
+.closed-color {
+    color: #f50200;
+}
